@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the peking university.
+- 🔭 I’m currently studying on the peking university.
 - 🌱 I’m currently learning how to use GitHub.
 - 👯 I’m looking to collaborate on some python programmes.
 - 🤔 I’m looking for help with some interested in the computer science.
